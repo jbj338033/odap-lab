@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="public/banner.svg" alt="오답연구소" width="100%" />
+  <img src="public/banner.png" alt="오답연구소" width="100%" />
 </p>
 
 <p align="center">
