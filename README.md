@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="public/banner.png" alt="오답연구소" width="100%" />
-</p>
+<div align="center">
+  <img src="public/banner.png" alt="오답연구소" width="100%" style="display:block;" />
+</div>
 
 <p align="center">
   <strong>시험지 사진 한 장으로 AI가 오답 원인을 진단합니다</strong>
